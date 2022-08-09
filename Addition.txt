@@ -1,0 +1,8 @@
+package com.hexaware.java8examples.functionalinterfaceexample;
+
+import Functionalinterface.Functionalinterface;
+
+@Functionalinterface
+public interface Addition {
+	void add();//SAM
+}
